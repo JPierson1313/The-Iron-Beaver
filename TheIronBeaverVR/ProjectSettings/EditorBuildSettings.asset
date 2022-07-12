@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VRStartScreen.unity
+    guid: a6e4181f7146a4449b58697f51801d7d
+  - enabled: 1
+    path: Assets/Scenes/VRLevel1Intro.unity
+    guid: db0ed4f4e3b6e434484f7a9b13721b4a
+  - enabled: 1
+    path: Assets/Scenes/VROpenWaters.unity
+    guid: fe10049998980d040a307423e2976f49
+  - enabled: 1
+    path: Assets/Scenes/VRLevel2Intro.unity
+    guid: cc6a5ff38c34889469d9da9b05b4c0eb
+  - enabled: 1
+    path: Assets/Scenes/VRRiver.unity
+    guid: 96a3eeff2a3ae1f4f809acae9fcf103c
+  - enabled: 1
+    path: Assets/Scenes/VRLevel3Intro.unity
+    guid: 409d37b1f41c6ef4e9d3e2bbf51576f8
+  - enabled: 1
+    path: Assets/Scenes/VRIslands.unity
+    guid: dbe958a8bd98c7d4480ea093bff8c3cc
+  - enabled: 1
+    path: Assets/Scenes/VRYouWin.unity
+    guid: 2a1489bd6b5f0b248bc200557956c469
+  m_configObjects: {}

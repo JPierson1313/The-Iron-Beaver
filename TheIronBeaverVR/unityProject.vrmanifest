@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrmonsterprototype.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Jarrett\\Desktop\\TheIronBeaverVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "TheIronBeaverVR [Testing]"
+        }
+      }
+    }
+  ]
+}
